@@ -1,0 +1,8 @@
+/Users/smartims/Documents/ControlsDemo/ControlsDemo/bin/Debug/netstandard2.0/ControlsDemo.deps.json
+/Users/smartims/Documents/ControlsDemo/ControlsDemo/bin/Debug/netstandard2.0/ControlsDemo.dll
+/Users/smartims/Documents/ControlsDemo/ControlsDemo/bin/Debug/netstandard2.0/ControlsDemo.pdb
+/Users/smartims/Documents/ControlsDemo/ControlsDemo/obj/Debug/netstandard2.0/ControlsDemo.csproj.CoreCompileInputs.cache
+/Users/smartims/Documents/ControlsDemo/ControlsDemo/obj/Debug/netstandard2.0/ControlsDemo.AssemblyInfoInputs.cache
+/Users/smartims/Documents/ControlsDemo/ControlsDemo/obj/Debug/netstandard2.0/ControlsDemo.AssemblyInfo.cs
+/Users/smartims/Documents/ControlsDemo/ControlsDemo/obj/Debug/netstandard2.0/ControlsDemo.dll
+/Users/smartims/Documents/ControlsDemo/ControlsDemo/obj/Debug/netstandard2.0/ControlsDemo.pdb

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:ControlsDemo" x:Class="ControlsDemo.MainPage">
+    <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand">
+        <Label Text="Login TextViewnbafdbkfbkdfkdagfkadfkadkfgakdf" TextColor="Blue" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand" FontSize="35" LineBreakMode="WordWrap" WidthRequest="100">
+        </Label>
+        <Entry x:Name="txtUserName" Placeholder="Enter UserName" HorizontalOptions="FillAndExpand" VerticalOptions="CenterAndExpand" />
+        <Button Text="Submit" Clicked="Handle_Clicked" />
+        <BoxView HeightRequest="3" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" BackgroundColor="Purple" />
+        <Image Source="UpComing" Aspect="AspectFit" HeightRequest="40" WidthRequest="40"/>
+    </StackLayout>
+</ContentPage>
